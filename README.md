@@ -27,8 +27,10 @@ ADVANCED_WORDS_FILTER # ترکیب تمام لیست‌ها
 ```
 
 
-برای استفاده از لیست متغیر ها به صورت کامل از from redlogic import ADVANCED_WORDS_FILTER استفاده کنید
-To Use Persian Bad Words List add this line "from redlogic import ADVANCED_WORDS_FILTER" at the top of the code
+برای استفاده از لیست متغیر ها به صورت کامل به این شکل فراخوانی کنید
+-
+from redlogic import ADVANCED_WORDS_FILTER"
+-
 
 
 # برای شناسایی فحش و کلمات نادرست فارسی
