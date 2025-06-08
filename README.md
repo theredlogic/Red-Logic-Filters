@@ -29,7 +29,7 @@ ADVANCED_WORDS_FILTER # ترکیب تمام لیست‌ها
 
 برای استفاده از لیست متغیر ها به صورت کامل به این شکل فراخوانی کنید
 -
-from redlogic import ADVANCED_WORDS_FILTER"
+from redlogic import ADVANCED_WORDS_FILTER
 -
 
 
